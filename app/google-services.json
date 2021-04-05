@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884047156421",
+    "project_id": "aswinwhatsapp-ee628",
+    "storage_bucket": "aswinwhatsapp-ee628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884047156421:android:c0dbc979751b40aa890cac",
+        "android_client_info": {
+          "package_name": "com.aryal.aswinwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884047156421-lgt5r1dvo3e4q19e5p4dv4b9fj9he9nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8m_d7Pz64Vx7O19YEDaDpRtKvrFi-paw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884047156421-lgt5r1dvo3e4q19e5p4dv4b9fj9he9nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
